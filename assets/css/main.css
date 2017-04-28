@@ -1,0 +1,60 @@
+*{
+
+}
+
+.captcha{
+  box-sizing: border-box;
+  display: inline-block;
+  width: 500px;
+  height: 320px;
+  position: absolute;
+  top: 25%;
+  left: 35%;
+  background-color: #8b1e2e;
+}
+
+#code{
+  position: absolute;
+  top: 8%;
+  left: 2%;
+  width: 95%;
+  height: 39%;
+}
+
+#verification{
+  position: absolute;
+  bottom: 4%;
+  left: 2.5%;
+  width: 52%;
+  height: 39%;
+}
+
+.icon{
+  position: absolute;
+  left: 56%;
+  font-size: 1.5em;
+  color: white;
+  background-color: #8b1e2e;
+}
+
+.icon-circle-check{
+  bottom: 40%;
+
+}
+
+.icon-rotate{
+  bottom: 30%;
+}
+
+.image{
+  position: absolute;
+  bottom: 10%;
+  right: 2.5%;
+  background-color: white;
+  color: #8b1e2e;
+}
+
+ .icon-reload-alt{
+   position: absolute;
+   top:
+ }
