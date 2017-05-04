@@ -19,6 +19,7 @@
   left: 2%;
   width: 95%;
   height: 39%;
+  font-size: 4em;
 }
 
 #verification{
@@ -27,6 +28,8 @@
   left: 2.5%;
   width: 52%;
   height: 39%;
+  font-size: 3em;
+
 }
 
 .icon{
